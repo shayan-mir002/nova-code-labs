@@ -19,7 +19,7 @@ NovaCode Labs is a software development agency specializing in modern web develo
 
 ## Tech Stack
 
-React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Node.js, PostgreSQL, Docker, AWS
+React, Next.js, TypeScript, Tailwind CSS, Framer Motion, Node.js, PostgreSQL
 
 ---
 
